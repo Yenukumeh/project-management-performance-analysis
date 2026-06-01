@@ -17,7 +17,7 @@ The objective of this dashboard is to provide stakeholders with a clear view of 
 
 The project portfolio consists of 99 total projects, with only 30 successfully completed, resulting in a completion rate of approximately 30%.
 
-At the same time, 66 projects are overdue, making schedule delays the most significant operational challenge identified in the analysis. The large gap between completed and overdue projects suggests the presence of delivery bottlenecks that require immediate attention.
+At the same time, 42 projects are overdue, making schedule delays the most significant operational challenge identified in the analysis. This indicates that 100% of the currently active workload (25 In-Progress and 17 On-Hold) has surpassed its scheduled end date, highlighting a critical operational bottleneck that requires immediate attention.
 
 ### 2. Project Attrition and Delivery Risks
 
@@ -37,15 +37,18 @@ Project initiation activity fluctuated between 2021 and 2025, indicating varying
 
 The project completion trend remains constant at 30 across all years, suggesting the metric may represent a cumulative total rather than yearly completions. Further validation of the underlying data structure would help ensure accurate interpretation of long-term performance trends.
 ___
+
 ## Strategic Recommendations
-1. **Prioritize Overdue Projects:** Conduct a review of the 66 overdue projects and prioritize them based on business impact, strategic importance, and expected return on investment. This will help focus resources on the most critical initiatives.
+1. **Prioritize Overdue Projects:** Conduct a review of the 42 overdue projects and prioritize them based on business impact, strategic importance, and expected return on investment. This will help focus resources on the most critical initiatives.
 2. **Investigate Project Cancellations:**Analyze the 27 cancelled projects to identify recurring causes such as unclear requirements, scope changes, budget limitations, or resource shortages. These findings can be used to strengthen future project planning processes.
 3. **Optimize Resource Allocation:**Evaluate project manager workloads and team capacity to determine whether project delays are linked to over-allocation. A more balanced distribution of projects may improve delivery performance.
 4. **Implement Early Risk Monitoring:**Introduce proactive project health indicators and milestone tracking to identify at-risk projects before they become overdue, enabling earlier intervention and corrective action.
  ---
 
+
  ## Technical Skills Demonstrated
  * **Data Modeling:** Built relationships between project schedules, manager assignments, and project status data to support accurate analysis and filtering.
+ * **DAX Calculations:** Written custom DAX measures to isolate active overdue timelines and compute project completion percentages.
  * **Dashboard Design:** Developed executive-level KPI cards to provide a quick overview of project performance metrics.
  * **Data Cleaning and Transformation:** Prepared and structured project data for analysis across multiple time dimensions, including year, quarter, month, and day.
  * **Data Visualization:** Designed interactive charts to highlight project status distribution, workload allocation, and performance trends.
