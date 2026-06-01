@@ -40,9 +40,9 @@ ___
 
 ## Strategic Recommendations
 1. **Prioritize Overdue Projects:** Conduct a review of the 42 overdue projects and prioritize them based on business impact, strategic importance, and expected return on investment. This will help focus resources on the most critical initiatives.
-2. **Investigate Project Cancellations:**Analyze the 27 cancelled projects to identify recurring causes such as unclear requirements, scope changes, budget limitations, or resource shortages. These findings can be used to strengthen future project planning processes.
-3. **Optimize Resource Allocation:**Evaluate project manager workloads and team capacity to determine whether project delays are linked to over-allocation. A more balanced distribution of projects may improve delivery performance.
-4. **Implement Early Risk Monitoring:**Introduce proactive project health indicators and milestone tracking to identify at-risk projects before they become overdue, enabling earlier intervention and corrective action.
+2. **Investigate Project Cancellations:** Analyze the 27 cancelled projects to identify recurring causes such as unclear requirements, scope changes, budget limitations, or resource shortages. These findings can be used to strengthen future project planning processes.
+3. **Optimize Resource Allocation:** Evaluate project manager workloads and team capacity to determine whether project delays are linked to over-allocation. A more balanced distribution of projects may improve delivery performance.
+4. **Implement Early Risk Monitoring:** Introduce proactive project health indicators and milestone tracking to identify at-risk projects before they become overdue, enabling earlier intervention and corrective action.
  ---
 
 
@@ -52,7 +52,7 @@ ___
  * **Dashboard Design:** Developed executive-level KPI cards to provide a quick overview of project performance metrics.
  * **Data Cleaning and Transformation:** Prepared and structured project data for analysis across multiple time dimensions, including year, quarter, month, and day.
  * **Data Visualization:** Designed interactive charts to highlight project status distribution, workload allocation, and performance trends.
- * ** Business Intelligence:** Translated dashboard findings into actionable recommendations to support operational decision-making.
+ * **Business Intelligence:** Translated dashboard findings into actionable recommendations to support operational decision-making.
 
 ## Tools Used
 * Power BI
