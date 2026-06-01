@@ -5,8 +5,8 @@ In any fast paced organization, tracking project health is critical to operation
 
 The objective of this dashboard is to provide stakeholders with a clear view of project performance, resource allocation, and operational bottlenecks, enabling more informed decision-making and improved project outcomes.
 
-![Project Dashboard]
-(project dashboard.jpg)
+![Project Dashboard](project%20dashboard.jpg)
+
 
 ---
 ## Key Insights
