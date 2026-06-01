@@ -7,7 +7,7 @@ The objective of this dashboard is to provide stakeholders with a clear view of 
 
 
 
-<img src="Project dashboard .jpg" width="100%" alt="Project Dashboard">
+<img src="Project Dashboard .jpg" width="100%" alt="Project Dashboard">
 
 
 
