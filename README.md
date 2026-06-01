@@ -32,10 +32,10 @@ Project initiation activity fluctuated between 2021 and 2025, indicating varying
 The project completion trend remains constant at 30 across all years, suggesting the metric may represent a cumulative total rather than yearly completions. Further validation of the underlying data structure would help ensure accurate interpretation of long-term performance trends.
 ___
 ## Strategic Recommendations
-1. **Prioritize Overdue Projects** Conduct a review of the 66 overdue projects and prioritize them based on business impact, strategic importance, and expected return on investment. This will help focus resources on the most critical initiatives.
-2. **Investigate Project Cancellations**Analyze the 27 cancelled projects to identify recurring causes such as unclear requirements, scope changes, budget limitations, or resource shortages. These findings can be used to strengthen future project planning processes.
-3. **Optimize Resource Allocation**Evaluate project manager workloads and team capacity to determine whether project delays are linked to over-allocation. A more balanced distribution of projects may improve delivery performance.
-4. **Implement Early Risk Monitoring**Introduce proactive project health indicators and milestone tracking to identify at-risk projects before they become overdue, enabling earlier intervention and corrective action.
+1. **Prioritize Overdue Projects:** Conduct a review of the 66 overdue projects and prioritize them based on business impact, strategic importance, and expected return on investment. This will help focus resources on the most critical initiatives.
+2. **Investigate Project Cancellations:**Analyze the 27 cancelled projects to identify recurring causes such as unclear requirements, scope changes, budget limitations, or resource shortages. These findings can be used to strengthen future project planning processes.
+3. **Optimize Resource Allocation:**Evaluate project manager workloads and team capacity to determine whether project delays are linked to over-allocation. A more balanced distribution of projects may improve delivery performance.
+4. **Implement Early Risk Monitoring:**Introduce proactive project health indicators and milestone tracking to identify at-risk projects before they become overdue, enabling earlier intervention and corrective action.
  ---
 
  ## Technical Skills Demonstrated
