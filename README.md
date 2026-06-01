@@ -40,10 +40,10 @@ ___
 
  ## Technical Skills Demonstrated
  * ** Data Modeling:** Built relationships between project schedules, manager assignments, and project status data to support accurate analysis and filtering.
- * ** Dashboard Design:** Developed executive-level KPI cards to provide a quick overview of project performance metrics.
- * ** Data Cleaning and Transformation:** Prepared and structured project data for analysis across multiple time dimensions, including year, quarter, month, and day.
- * ** Data Visualization:** Designed interactive charts to highlight project status distribution, workload allocation, and performance trends.
- * **  Business Intelligence:** Translated dashboard findings into actionable recommendations to support operational decision-making.
+ * **Dashboard Design:** Developed executive-level KPI cards to provide a quick overview of project performance metrics.
+ * **Data Cleaning and Transformation:** Prepared and structured project data for analysis across multiple time dimensions, including year, quarter, month, and day.
+ * **Data Visualization:** Designed interactive charts to highlight project status distribution, workload allocation, and performance trends.
+ * ** Business Intelligence:** Translated dashboard findings into actionable recommendations to support operational decision-making.
 
 ## Tools Used
 * Power BI
